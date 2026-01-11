@@ -31,6 +31,14 @@
 </td>
 </tr>
 <tr>
+<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 40%, #16213e 80%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">� KeyMorph</h3>
+<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Unified API gateway</strong> for Gemini keys — pool multiple API keys behind one endpoint.</p>
+<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Auto rotation, instant failover, zero rate limits & Gemini 2.5/3.0 support.</p>
+<p align="center" style="margin-top: 20px;"><a href="https://www.keymorph.dedyn.io/"><img src="https://img.shields.io/badge/🔗_Get_Started-10B981?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=10B981" alt="Visit KeyMorph" /></a></p>
+</td>
+</tr>
+<tr>
 <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
 <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">💳 UpiLink-Generator</h3>
 <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Create custom UPI payment links in seconds — <strong>easy sharing</strong>, <strong>instant payments</strong>.</p>
