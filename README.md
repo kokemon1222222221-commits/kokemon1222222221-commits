@@ -38,18 +38,18 @@
 <p align="center" style="margin-top: 20px;"><a href="https://www.keymorph.dedyn.io/"><img src="https://img.shields.io/badge/🔗_Get_Started-10B981?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=10B981" alt="Visit KeyMorph" /></a></p>
 </td>
 <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🛡️ SureSafe AI</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>AI-powered fraud detection</strong> platform — protect transactions across bank transfers, cards & UPI.</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> 99.7% detection rate, real-time scanning & multi-channel protection.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://suresafe-ai.wmart.in/"><img src="https://img.shields.io/badge/🔗_Get_Protected-EF4444?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=EF4444" alt="Visit SureSafe AI" /></a></p>
+<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">� UpiLink-Generator</h3>
+<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Create custom UPI payment links in seconds — <strong>easy sharing</strong>, <strong>instant payments</strong>.</p>
+<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Ideal for freelancers, small businesses, and instant payments.</p>
+<p align="center" style="margin-top: 20px;"><a href="http://upilinkgenerator.vercel.app/"><img src="https://img.shields.io/badge/🔗_Visit_Site-F97316?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=F97316" alt="Visit UpiLink Generator" /></a></p>
 </td>
 </tr>
 <tr>
 <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">💳 UpiLink-Generator</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Create custom UPI payment links in seconds — <strong>easy sharing</strong>, <strong>instant payments</strong>.</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Ideal for freelancers, small businesses, and instant payments.</p>
-<p align="center" style="margin-top: 20px;"><a href="http://upilinkgenerator.vercel.app/"><img src="https://img.shields.io/badge/🔗_Visit_Site-F97316?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=F97316" alt="Visit UpiLink Generator" /></a></p>
+<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">�️ SureSafe AI</h3>
+<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>AI-powered fraud detection</strong> platform — protect transactions across bank transfers, cards & UPI.</p>
+<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> 99.7% detection rate, real-time scanning & multi-channel protection.</p>
+<p align="center" style="margin-top: 20px;"><a href="https://suresafe-ai.wmart.in/"><img src="https://img.shields.io/badge/🔗_Get_Protected-EF4444?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=EF4444" alt="Visit SureSafe AI" /></a></p>
 </td>
 <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
 <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🎨 Patter-Nix</h3>
