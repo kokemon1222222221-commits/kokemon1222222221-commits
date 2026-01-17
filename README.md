@@ -1,94 +1,23 @@
-# My Projects
+<!-- Option 1: Coding Animation -->
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://yourwebsite.com)
 
-<div align="center">
-<table>
-<tr>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">⚙️ AstraGo AI</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Your <strong>AI-powered development platform</strong> — multi-model chat, image generation, and full IDE.</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">Features:</span> Multi-LLM comparison, code assistance, project builder & file analysis.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://astrago-ai.dedyn.io/"><img src="https://img.shields.io/badge/→_Visit_Website-06B6D4?style=for-the-badge&logoColor=white&labelColor=06B6D4&color=06B6D4" alt="Visit AstraGo AI" /></a></p>
-</td>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">✉️ 1TimeMail</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Generate disposable email addresses instantly — <strong>secure</strong>, <strong>fast</strong>, and <strong>private</strong>.</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Perfect for quick sign-ups and avoiding spam in your inbox.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://1timemail.org/"><img src="https://img.shields.io/badge/→_Visit_Website-EC4899?style=for-the-badge&logoColor=white&labelColor=EC4899&color=EC4899" alt="Visit 1TimeMail" /></a></p>
-</td>
-</tr>
-<tr>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📑 Text Extractor AI</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Transform documents, images & PDFs into <strong>editable text</strong> instantly with advanced AI.</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">Supports:</span> PDF, JPG, PNG | Handwriting & multi-language recognition.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://www.textextractor.dedyn.io/"><img src="https://img.shields.io/badge/→_Visit_Website-6366F1?style=for-the-badge&logoColor=white&labelColor=6366F1&color=6366F1" alt="Visit Text Extractor AI" /></a></p>
-</td>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #2d1b69 30%, #1a1a2e 70%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🎙️ VOX AI</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Voice AI platform</strong> for real-time speech processing and intelligent voice interactions.</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">Features:</span> Voice recognition, AI responses, speech analytics & automation.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://voxai.dedyn.io/"><img src="https://img.shields.io/badge/→_Visit_Website-8B5CF6?style=for-the-badge&logoColor=white&labelColor=8B5CF6&color=8B5CF6" alt="Visit VOX AI" /></a></p>
-</td>
-</tr>
-<tr>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 40%, #16213e 80%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🔐 KeyMorph</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Unified API gateway</strong> for Gemini keys — pool multiple API keys behind one endpoint.</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">Features:</span> Auto rotation, instant failover, zero rate limits & Gemini 2.5/3.0 support.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://www.keymorph.dedyn.io/"><img src="https://img.shields.io/badge/→_Visit_Website-14B8A6?style=for-the-badge&logoColor=white&labelColor=14B8A6&color=14B8A6" alt="Visit KeyMorph" /></a></p>
-</td>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">💸 UpiLink Generator</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Create custom UPI payment links in seconds — <strong>easy sharing</strong>, <strong>instant payments</strong>.</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Ideal for freelancers, small businesses, and instant payments.</p>
-<p align="center" style="margin-top: 20px;"><a href="http://upilinkgenerator.vercel.app/"><img src="https://img.shields.io/badge/→_Visit_Website-F59E0B?style=for-the-badge&logoColor=white&labelColor=F59E0B&color=F59E0B" alt="Visit UpiLink Generator" /></a></p>
-</td>
-</tr>
-<tr>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🛡️ SureSafe AI</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>AI-powered fraud detection</strong> platform — protect transactions across bank transfers, cards & UPI.</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">Features:</span> 99.7% detection rate, real-time scanning & multi-channel protection.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://suresafe-ai.wmart.in/"><img src="https://img.shields.io/badge/→_Visit_Website-F43F5E?style=for-the-badge&logoColor=white&labelColor=F43F5E&color=F43F5E" alt="Visit SureSafe AI" /></a></p>
-</td>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🎭 Patter-Nix</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Professional-grade</strong> background patterns and gradients.</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Easily copy the code and seamlessly integrate it into your projects.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://patter-nix.vercel.app/"><img src="https://img.shields.io/badge/→_Visit_Website-E879F9?style=for-the-badge&logoColor=white&labelColor=E879F9&color=E879F9" alt="Visit Patter-Nix" /></a></p>
-</td>
-</tr>
-<tr>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: radial-gradient(circle at top left, #0e0e12 0%, #1a1a2e 50%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🌐 My Portfolio</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Showcasing my projects, skills, and creative work — where <strong>code meets design</strong>.</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Visit my portfolio — AI/ML projects & skills by Krish Mhatre.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://otisium.vercel.app/"><img src="https://img.shields.io/badge/→_Visit_Website-84CC16?style=for-the-badge&logoColor=white&labelColor=84CC16&color=84CC16" alt="Visit Portfolio" /></a></p>
-</td>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 30%, #16213e 70%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📋 FlexoPDF</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Smart file tools made easy.</strong> Convert, compress, edit, and secure your PDFs and images in seconds — fast, free, and no signup required!</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">Supports:</span> PDF, JPG, PNG, DOCX, XLSX, PPTX, WEBP, and more.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://flexopdf.dedyn.io/"><img src="https://img.shields.io/badge/→_Visit_Website-FB7185?style=for-the-badge&logoColor=white&labelColor=FB7185&color=FB7185" alt="Visit FlexoPDF" /></a></p>
-</td>
-</tr>
-</table>
-</div>
+<!-- Option 2: Developer Workspace -->
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://yourwebsite.com)
 
-## 📊 GitHub Stats
+<!-- Option 3: Typing Code Animation -->
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)](https://yourwebsite.com)
 
-<div align="center">
+<!-- Option 4: Matrix Style -->
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://yourwebsite.com)
 
-![T2-Astra's GitHub stats](https://github-readme-stats.vercel.app/api?username=T2-Astra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)
+<!-- Option 5: Wave Animation -->
+[![MasterHead](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)](https://yourwebsite.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T2-Astra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<!-- Option 6: Colorful Coding -->
+[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://yourwebsite.com)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=T2-Astra&theme=tokyonight&hide_border=true)
+<!-- Option 7: Developer at Work -->
+[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://yourwebsite.com)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=T2-Astra&theme=tokyo-night&hide_border=true&area=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=T2-Astra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Option 8: Simple Tech Banner -->
+[![MasterHead](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+There!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;Welcome+to+my+GitHub+Profile!)](https://yourwebsite.com)
